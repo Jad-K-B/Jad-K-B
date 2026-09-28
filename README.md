@@ -7,7 +7,7 @@
 
 <hr/>
 
-I'm Jad Barrieh, a Computer Engineering student at German Jordanian University.  
+Computer Engineering student at German Jordanian University.  
 I'm interested in AI, machine learning, computer vision, data science, and software engineering, and I enjoy building practical projects that solve real world problems or connect with my personal interests.  
 I'm currently developing my technical portfolio and looking for opportunities to apply my skills.
 
